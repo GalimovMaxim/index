@@ -14,7 +14,7 @@ header {
 .header_left {
     width: 65%;
     height: 100%;
-    font-size: 3vw;
+    font-size: 5vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,7 +25,7 @@ header {
 }
 
 .header_left p {
-    font-size: 0.5em;
+    font-size: 0.9em;
 }
 
 .bio {
